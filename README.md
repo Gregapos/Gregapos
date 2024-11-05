@@ -1,7 +1,7 @@
 # Hi there, I'm Apostolos 👋
 
 ## ⚡ About Me:
-- 🔭 I’m currently working as a fullstack software engineer
+- 🔭 I’m currently working as a Fullstack Software Engineer
 - 🔥 I’m looking to collaborate with other Developers on open source projects
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apostolos-grigoris/)
@@ -27,18 +27,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Gregapos&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-
-<!--
-**Gregapos/Gregapos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
